@@ -1,0 +1,28 @@
+_____________________________________________________________ [SCAN LOGS] _________________________________________________________________________________________
+
+2024-05-04 14:34:17,	No Threats Found., 	C:/Users/manoj N/Documents/backuuup, 	No details
+2024-05-04 14:36:42,	No Threats Found., 	C:/Users/manoj N/Documents/BAACKUPS, 	Safe
+2024-05-04 14:40:06,	No Threats Found., 	C:/Users/manoj N/Desktop/html newbie, 	Safe
+2024-05-04 14:44:41,	No Threats Found.,	Safe,	C:/Users/manoj N/Desktop/html newbie/icon, 
+2024-05-04 14:46:00,	Threats Found!,		CryptoLocker: Encrypts files and demands ransom.,	C:/Users/manoj N/Downloads/malware test zip, 
+2024-05-04 14:47:22,	Threats Found!, 	Sodinokibi, 	C:/Users/manoj N/Downloads/malware test zip/startup.png, 
+2024-05-04 15:16:03,	Threats Found!, 	CryptoLocker: Encrypts files and demands ransom for decryption., 	C:/Users/manoj N/Downloads/malware test zip/startup.png
+2024-05-04 15:20:09,	Threats Found!, 	NetWalker, 	C:/Users/manoj N/Downloads/malware test zip\startup.png
+2024-05-04 15:26:13,	Threats Found!, 	Sodinokibi, 	C:/Users/manoj N/Downloads/malware test zip/startup.png
+2024-05-04 20:35:29,	Threats Found!, 	Sodinokibi, 	C:/Users/manoj N/Downloads/malware test zip\startup.png
+2024-05-04 20:37:19,	Threats Found!, 	Sodinokibi, 	C:/Users/manoj N/Downloads/malware test zip/startup.png
+2024-05-04 20:49:09,	Threats Found!, 	WannaCry, 	C:/Users/manoj N/Downloads/malware test zip/compliant.png
+2024-05-04 20:49:35,	No Threats Found., 	Safe, 	C:/Users/manoj N/Documents/BAACKUPS\engine.py
+2024-05-05 22:43:33,	No Threats Found., 	Safe, 	C:/Users/manoj N/Documents/malwares test\playstation.zip.zip
+2024-05-05 22:44:08,	No Threats found., 	Safe, 	C:/Users/manoj N/Documents/malwares test/playstation.zip.zip
+2024-05-05 22:44:35,	Threats Found!, 	Sodinokibi, 	C:/Users/manoj N/Downloads/malware test zip/35mb.json
+2024-05-06 10:48:16,	Threats Found!, 	CryptoLocker, 	C:/Users/manoj N/Downloads/malware test zip\New movies free\sample-mpg-file.mpg
+2024-05-06 10:48:37,	Threats Found!, 	WannaCry, 	C:/Users/manoj N/Downloads/malware test zip/35mb.json
+2024-05-06 10:56:11,	Threats Found!, 	WannaCry, 	C:/Users/manoj N/Downloads/malware test zip\New movies free\sample-mpg-file.mpg
+2024-05-06 12:00:48,	No Threats found., 	Safe, 	C:/Users/manoj N/Documents/OpenIV/GTA V/Strings/AudioTracks.txt
+2024-05-06 12:14:22,	Threats Found!, 	CryptoLocker, 	C:/Users/manoj N/Downloads/malware test zip\New movies free\sample-mpg-file.mpg
+2024-05-08 21:13:33,	Threats Found!, 	WannaCry, 	C:/Users/manoj N/Downloads/malware test zip\New movies free\sample-mpg-file.mpg
+2024-05-08 21:21:39,	Threats Found!, 	NetWalker, 	C:/Users/manoj N/Downloads/malware test zip\New movies free\sample-mpg-file.mpg
+2024-05-08 21:22:06,	Threats Found!, 	NetWalker, 	C:/Users/manoj N/Downloads/malware test zip/34mb.json
+2024-05-09 14:25:40,	No Threats Found., 	Safe, 	C:/Users/manoj N/Downloads/Rufus\rufus.log
+2024-05-09 14:25:59,	Threats Found!, 	WannaCry, 	C:/Users/manoj N/Downloads/malware test zip\New movies free\sample-mpg-file.mpg
